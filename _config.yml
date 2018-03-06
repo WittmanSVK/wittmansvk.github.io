@@ -1,3 +1,6 @@
 nanme: Frantisek Durana
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+collections:
+  schoolProjects:
+    output: true

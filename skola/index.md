@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: school
 title: Škola a projekty
 ---
 
-# Nadpis 
+# Nadpis

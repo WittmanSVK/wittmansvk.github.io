@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Prečo práve FIIT?"
+category: "FIIT"
+tags: FIIT vysoke skoly informatika
 date: 2018-03-06
 ---
 
