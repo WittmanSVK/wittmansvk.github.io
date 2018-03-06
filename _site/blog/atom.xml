@@ -4,7 +4,7 @@
 	<title>Hank Quinlan's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
-	<updated>2018-03-06T22:30:35+01:00</updated>
+	<updated>2018-03-06T23:52:04+01:00</updated>
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
 		<name>Hank Quinlan</name>
@@ -44,7 +44,7 @@
 			<link href="http://hankquinlan.github.io/blog/2018/02/22/frantisek-durana-starts"/>
 			<updated>2018-02-22T00:00:00+01:00</updated>
 			<id>http://hankquinlan.github.io/blog/2018/02/22/frantisek-durana-starts</id>
-			<content type="html">&lt;p&gt;Zdravím, konečne sa mi podarilo vytvoriť blogovú sekciu, kde budú postupne pribúdať nové články. Pri vytváraní používam  &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a Markdown.&lt;/p&gt;
+			<content type="html">&lt;p&gt;Zdravím, konečne sa mi podarilo vytvoriť blogovú sekciu, kde budú postupne pribúdať nové články. Pri vytváraní používam generátor &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a Markdown.&lt;/p&gt;
 </content>
 		</entry>
 	
