@@ -9,5 +9,6 @@ title: Riešené projekty počas štúdia
 
 	<li><h2><a href="{{ project.url }}">{{ project.title }}</a></h2></li>
 
+{{ project.content | truncatewords: 20 }}
 {% endfor %}
 </ul>
