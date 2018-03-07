@@ -1,13 +1,24 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Databázová aplikácia</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Databázová aplikácia</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+
+        <nav class="main-nav">
+<!--
+					<ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/cookies.html">Cookies</a></li>
+            <li><a href="/blog.html">Blog</a></li>
+          </ul>
+-->
+<ul>
 	        		<li><a href="/">Domov</a></li>
 		        	<li><a href="/o_mne">O mne</a></li>
 	        		<li><a href="/cv">CV</a></li>
@@ -15,22 +26,31 @@
 							<li><a href="/praca">Práca a úspechy</a></li>
 	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
-			</nav>
-			<div class="container">
+				</nav>
 
-			  <h2><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1489695931/postgresql.png" alt="page.title" />Databázová aplikácia</h2>
+        <h1><a href="/">František<strong> Ďurana</strong></a></h1>
+		</div>
+    </header>
+    <div class="content">
+			<div class="mywidth">
+      <div class="cookie">
+  <h3><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1489695931/postgresql.png" alt="page.title" />Databázová aplikácia</h3>
 
-
+  <div class="blog-post spacing">
     <p>V rámci zadania som vytváral aplikáciu, ktorá zabezpečovala prácu s databázou v doméne správy vojenského múzea. Aplikácia bola vytvorená v programovacom jazyku Java, pričom na ukladanie dát som využíval PostgreSQL. Hlavná funkcionalita spočívala v zobrazovaní záznamov, ktoré boli stránkované na obrazovku (dôležitá bola práve rýchlosť odozvy a optimalizácia tvorby dopytov). Používateľ mohol zároveň používať viaceré preddefinované filtre s možnosťou kombinácie ich výstupu. Medzi ďalšie činnosti patrilo pridávanie záznamov, úprava záznamov, vymazanie záznamov a zobrazenie konkrétneho záznamu (detaily všetkých jeho atribútov). Pri zmene dát boli využívané transakcie a zároveň boli splnené aj požiadavky na súčasnú prácu s viacerými tabuľkami. Ako už bolo spomenuté, aplikácia mala používateľské rozhranie využitím Java Swing.</p>
 
+  </div>
+</div>
 
-
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:frantisek.durana@azet.sk">email</a></li>
-	        		<li><a href="https://github.com/wittmansvk">github.com/wittmansvk</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+		</div>
+    </div>
+    <footer>
+      <div class="content">
+        <p class="center-text">
+						        		<a href="mailto:frantisek.durana@azet.sk">email</a></li>
+						        		<a href="https://github.com/wittmansvk">github.com/wittmansvk</a></li>
+				</p>
+      </div>
+    </footer>
+  </body>
+</html>

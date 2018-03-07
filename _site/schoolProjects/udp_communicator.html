@@ -1,13 +1,24 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Komunikácia s využitím UDP protokolu</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Komunikácia s využitím UDP protokolu</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+
+        <nav class="main-nav">
+<!--
+					<ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/cookies.html">Cookies</a></li>
+            <li><a href="/blog.html">Blog</a></li>
+          </ul>
+-->
+<ul>
 	        		<li><a href="/">Domov</a></li>
 		        	<li><a href="/o_mne">O mne</a></li>
 	        		<li><a href="/cv">CV</a></li>
@@ -15,22 +26,31 @@
 							<li><a href="/praca">Práca a úspechy</a></li>
 	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
-			</nav>
-			<div class="container">
+				</nav>
 
-			  <h2><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1489695931/postgresql.png" alt="page.title" />Komunikácia s využitím UDP protokolu</h2>
+        <h1><a href="/">František<strong> Ďurana</strong></a></h1>
+		</div>
+    </header>
+    <div class="content">
+			<div class="mywidth">
+      <div class="cookie">
+  <h3><img src="https://3nqj2ibs8ev234yxb31usk21-wpengine.netdna-ssl.com/wp-content/uploads/2011/02/udp-logo.png" alt="page.title" />Komunikácia s využitím UDP protokolu</h3>
 
-
+  <div class="blog-post spacing">
     <p>Náplňou projektu bolo vytvorenie programu, ktorý umožňoval komunikáciu účastníkov v sieti Ethernet využitím protokolu UDP (User Datagram Protocol) transportnej vrstvy sieťového modelu TCP/IP. Počas jeho vypracovania bol navrhnutý vlastný protokol, ktorý slúžil na inicializáciu spojenia, prenos správ a ich identifikáciu, overenie správnosti prenosu využitím CRC a nakoniec aj ukončenia spojenia. Na implementáciu bol využitý programovací jazyk Java, súčasťou bolo aj používateľské rozhranie pre klientsku aj pre serverovú časť aplikácie. To využívalo Java Swing. Program umožňoval používateľovi nastaviť si veľkosť fragmentu, adresu i port. Okrem prenosu správ bolo možné prenášať aj súbory uložené na disku a zvoliť, kde na cieľovom zariadení sa budú ukladať. Zároveň bol využitý koncept viacerých súčasne bežiacich vlákien (multithreading).</p>
 
+  </div>
+</div>
 
-
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:frantisek.durana@azet.sk">email</a></li>
-	        		<li><a href="https://github.com/wittmansvk">github.com/wittmansvk</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+		</div>
+    </div>
+    <footer>
+      <div class="content">
+        <p class="center-text">
+						        		<a href="mailto:frantisek.durana@azet.sk">email</a></li>
+						        		<a href="https://github.com/wittmansvk">github.com/wittmansvk</a></li>
+				</p>
+      </div>
+    </footer>
+  </body>
+</html>

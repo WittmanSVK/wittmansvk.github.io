@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -32,6 +33,20 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.cookie img {
+  width: 77px;
+  border-radius: 68px;
+  position: relative;
+  left: -18px;
+  top: 15px;
+}
+
 
 ul.posts {
     margin: 20px auto 40px;
