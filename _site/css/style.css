@@ -51,7 +51,9 @@ div.small-container {
 }
 
 div.container {
-  max-width: 940px;
+  max-width: 1280px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 div.mywidth{
