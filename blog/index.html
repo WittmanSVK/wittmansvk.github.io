@@ -6,8 +6,15 @@ title: Blogy
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+
+	    <li><span>{{ post.date | date_to_string}}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+
+
+			{% capture time %}{{ content | reading_time }}{% endcapture %}
+			Očakávaný čas čítania {{ time }} {% if time == '1' %}minútu{% endif %}{% if time > '1' and time < '5' %}minuty{% endif %}{% if time > '4' %}minut{% endif %}.
+
 			<br>
-	  {% endfor %}
+			<br>
+		{% endfor %}
 
 {{paginator.total_posts}}

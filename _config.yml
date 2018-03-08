@@ -4,3 +4,5 @@ permalink: /blog/:year/:month/:day/:title
 collections:
   schoolProjects:
     output: true
+
+gems: ["emoji_for_jekyll" , "liquid_reading_time"]
