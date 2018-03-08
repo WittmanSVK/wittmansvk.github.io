@@ -10,8 +10,8 @@ title: Blogy
 	    <li><span>{{ post.date | date_to_string}}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 
 
-			{% capture time %}{{ content | reading_time }}{% endcapture %}
-			Očakávaný čas čítania {{ time }} {% if time == '1' %}minútu{% endif %}{% if time > '1' and time < '5' %}minuty{% endif %}{% if time > '4' %}minut{% endif %}.
+			{% capture time %}{{ post.content | reading_time }}{% endcapture %}
+			Očakávaný čas čítania {{ time }} {% if time == '1' %}minútu{% endif %}{% if time > '1' and time < '5' %}minúty{% endif %}{% if time > '4' %}minút{% endif %}.
 
 			<br>
 			<br>
