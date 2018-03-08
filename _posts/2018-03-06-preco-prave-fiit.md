@@ -2,8 +2,10 @@
 layout: post
 title: "Prečo práve FIIT?"
 category: "FIIT"
-tags: FIIT vysoke skoly informatika
+tags: FIIT skola informatika
 date: 2018-03-06
+author: František Ďurana
+description: Blog o výbere vysokej školy
 ---
 
 V živote každého z nás čaká niekoľko dôležitých rozhodnutí a myslím, že výber vysokej školy je jedným z nich. Po ujasnení smeru kam ďalej, čo človeka baví a čomu by sa chcel v budúcnosti venovať nasleduje práve takéto rozhodovanie. Ako to bolo u mňa a prečo som si zvolil **FIIT**?

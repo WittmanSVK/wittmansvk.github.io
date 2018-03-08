@@ -3,14 +3,13 @@ layout: default
 title: Životopis
 ---
 
-
+## Osobné informácie:	  
 
 **Meno**: František Ďurana
 
 **Email**: frantisek.durana@azet.sk 
 
-**Zamestnanie**:	Computer programmer, Developer
-
+<br>
 
 ## Pracovné skúsenosti:	  
 
@@ -20,21 +19,31 @@ ANASOFT, Bratislava (Slovensko)
   - výskum a analýza technológie Blockchain
   - implememtácia technológie Blockchain
 
-Výučba:
+<br>
 
-01/09/2015–Súčanosť
-	Slovenská technická univerzita, Fakulta informatiky a informačných technológií (FIIT)
+## Výučba:
+
+**01/09/2015–Súčanosť**
+
+  Slovenská technická univerzita, Fakulta informatiky a informačných technológií (FIIT)
   Bratislava (Slovensko)
 
-Osobné znalosti:
+<br>
 
-Materinský jazyk:	Slovenský
-Anglický jazyk: úroveň B2
-Nemecký jazyk: úroveň B2
+## Osobné znalosti:
 
-Záľuby
+**Materinský jazyk**:	Slovenský
+
+**Anglický jazyk**: úroveň B2
+
+**Nemecký jazyk**: úroveň B2
+
+<br>
+
+## Záľuby
 
 Cestovanie, prechádzky, čítanie kníh, spoznávanie nových miest
 
 Skúsenosti s programovacími jazykmi: C, Java, C++
+
 Skúsenosti s technológiami: MySQL, Enterprise Architect, OpenGL

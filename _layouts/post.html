@@ -8,7 +8,12 @@ layout: default
 <div class="post">
   {{ content }}
  Počet znakov v texte:  {{ content | size }}
-
-
 </div>
-<h4>{{ page.tags }}</h4>
+<br>
+
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
