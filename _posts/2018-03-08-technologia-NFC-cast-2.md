@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ďalšie aspekty technológie NFC"
-category: "FIIT"
+category: technológie
 tags: NFC technologie informatika
 date: 2018-03-08
 author: František Ďurana

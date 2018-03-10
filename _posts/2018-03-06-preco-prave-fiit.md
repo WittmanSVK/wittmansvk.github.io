@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Prečo práve FIIT?"
-category: "FIIT"
+title: Prečo práve FIIT?
+category: FIIT
 tags: FIIT skola informatika
 date: 2018-03-06
 author: František Ďurana
 description: Blog o výbere vysokej školy
 ---
-
-
 
 V živote každého z nás čaká niekoľko dôležitých rozhodnutí a myslím, že výber vysokej školy je jedným z nich. Po ujasnení smeru kam ďalej, čo človeka baví a čomu by sa chcel v budúcnosti venovať nasleduje práve takéto rozhodovanie. Ako to bolo u mňa a prečo som si zvolil **FIIT**?
 
@@ -28,4 +26,4 @@ Ale poďme späť k informatike v Bratislave. [Aplikovaná informatika na FEI](h
 
 ![Budova školy](https://ipravda.sk/res/2012/06/26/thumbs/budova-fiit-stu-v-bratislave-clanokW.jpg)
 
-Voľba bola teda jasná a vzhľadom na to, že som vďaka dobrým výsledok nemusel ani podstupovať prijímacie skúšky, vybral som si FIIT plný očakávaní. Kamaráti spomínali vysokoškolský život, slobodu na internáte, zaujímavé projekty a zadania, školu až v poobedňajších hodinách bez ranného vstávania, možnosť nechodiť na prednášky, párty a ďalšie benefity, ktorých som sa už nemohol dočkať. A najviac sa mi páčilo predstava, že už nebudem musieť tráviť čas pri mnohých, pre mňa zbytočných predmetoch, ktoré sme na gymnáziu mali. No a v septembri sa to celé začalo...
+Voľba bola teda jasná a vzhľadom na to, že som vďaka dobrým výsledok nemusel ani podstupovať prijímacie skúšky, vybral som si FIIT plný očakávaní. Kamaráti spomínali vysokoškolský život, slobodu na internáte, zaujímavé projekty a zadania, školu až v poobedňajších hodinách bez ranného vstávania, možnosť nechodiť na prednášky, párty a ďalšie benefity, ktorých som sa už nemohol dočkať. A najviac sa mi páčilo predstava, že už nebudem musieť tráviť čas pri mnohých, pre mňa zbytočných predmetoch, ktoré sme na gymnáziu mali. No a v septembri sa to celé začalo... :smile:

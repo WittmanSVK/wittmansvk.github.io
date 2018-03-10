@@ -1,4 +1,4 @@
-nanme: Frantisek Durana
+name: Frantisek Durana
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 collections:

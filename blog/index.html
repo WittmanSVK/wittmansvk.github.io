@@ -2,19 +2,22 @@
 layout: default
 title: Blogy
 ---
-	<h1>{{ page.title }}</h1>
+	<h3>{{ page.title }}</h3>
 	<ul class="posts">
 
 	  {% for post in site.posts %}
 
-	    <li><span>{{ post.date | date_to_string}}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span>{{ post.date | date_to_string }}</span> »» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 
+			{% capture time %}{{ post.content | number_of_word | reading_time }}{% endcapture %}
 
-			{% capture time %}{{ post.content | reading_time }}{% endcapture %}
-			Očakávaný čas čítania {{ time }} {% if time == '1' %}minútu{% endif %}{% if time > '1' and time < '5' %}minúty{% endif %}{% if time > '4' %}minút{% endif %}.
+			{% if time == '1' %} {% assign unit = "minútu" %}
+			{% elsif time > '1' and time <= '4' %}{% assign unit = "minúty" %}
+			{% else %}{% assign unit = "minút" %}{% endif %}
 
+			Očakávaný čas čítania {{ time }} {{ unit }}
 			<br>
 			<br>
 		{% endfor %}
 
-{{paginator.total_posts}}
+<strong> Počet blogov celkovo: {{site.posts | size }} </strong>

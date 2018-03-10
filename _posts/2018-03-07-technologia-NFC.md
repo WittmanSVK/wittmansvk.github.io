@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technológia NFC"
-category: "FIIT"
+category: technológie
 tags: NFC technologie informatika
 date: 2018-03-07
 author: František Ďurana

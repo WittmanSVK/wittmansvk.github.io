@@ -3,10 +3,10 @@ layout: default
 title: O mne
 ---
 
-## O mne v krátkosti
+### O mne v krátkosti
 
 Som študent, ktorý navštevuje tretí ročník Fakulty informatiky a informačných technológií STU v Bratislave.
-Počas svojho štúdia som pracoval na viacerých zaujímavých projektoch, ktoré postupne utvárali moje ďalšie
+Počas svojho štúdia som pracoval na [viacerých zaujímavých projektoch](/skola/projekty/index.html), ktoré postupne utvárali moje ďalšie
 smerovanie v informatickom svete.
 
 ## Hobby a voľný čas
@@ -32,4 +32,4 @@ pamiatky, vojnové pamätníky, hrady, múzeá či galérie ale aj parky a sady.
 Už odmalička som sa zaujímal o históriu. Niekto známy povedal, že ak si nepamätáme históriu, musíme ju prežiť
 znova. A to by často asi nebolo úplne vhodné. Najviac ma z histórie láka práve obdobie druhej svetovej vojny, najväčšieho
 vojenského konfliktu v dejinách ľudstva. Druhá svetová vojna je plná rôznych zaujímavostí, človek však musí často
-pátrať dlho, aby sa dostal ku skutočnej pravde. Tu skutočne platí, že históriu píšu víťazi. K tomuto historickému obdobiu sa viaže aj prezývka, podľa ktorej je pomenovaný môj repozitár. Michael Wittmann bol jedným z najväčších tankových es celej histórie a práve preto som si zvolil práve toto meno.
+pátrať dlho, aby sa dostal ku skutočnej pravde. Tu skutočne platí, že históriu píšu víťazi. K tomuto historickému obdobiu sa viaže aj prezývka, podľa ktorej je pomenovaný môj repozitár. [Michael Wittmann](http://warfarehistorynetwork.com/daily/wwii/legendary-panzer-ace-michael-wittman/) bol jedným z najväčších tankových es celej histórie a práve preto som si zvolil práve toto meno.

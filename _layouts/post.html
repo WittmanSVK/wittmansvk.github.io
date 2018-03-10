@@ -1,19 +1,21 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<h4> {{page.categories}}</h4>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-  {{ content }}
- Počet znakov v texte:  {{ content | size }}
-</div>
-<br>
+<h1>{{ page.title }}</h1>
+<pre><p><strong>Kategória článku: </strong>{{page.categories}}<strong>   Dátum:</strong> {{ page.date | date_to_string }} <strong>   Autor:</strong> {{ page.author }}</p></pre>
+
+    {{ content }}
+    </br>
+
+ <strong>Počet slov v texte:<strong>  {{ content | number_of_words }}
+   <br><br>
 
 <span>[
-  {% for tag in page.tags %}
+  <!-- podla tutoriálu na stránke http://longqian.me/2017/02/09/github-jekyll-tag/-->
+    {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
   {% endfor %}
+
 ]</span>

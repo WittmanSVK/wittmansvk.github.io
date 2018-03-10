@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="utf-8">
+    <title>Webové publikovanie</title>
+    <link rel="stylesheet" href="/css/mainstyle.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+
+  </head>
+  <body>
+    <header>
+      <div class="container">
+
+        <nav class="my-nav">
+          <ul>
+	        		<li><a href="/">Domov</a></li>
+		        	<li><a href="/o_mne">O mne</a></li>
+	        		<li><a href="/cv">CV</a></li>
+							<li><a href="/skola">Škola a projekty</a></li>
+							<li><a href="/praca">Práca a úspechy</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+				</nav>
+        <h1><a href="/">František<strong> Ďurana</strong></a></h1>
+		</div>
+    </header>
+    <div class="content">
+			<div class="content-width">
+
+      <h3 id="dokumentácia-riešenia-webového-sídla">Dokumentácia riešenia webového sídla</h3>
+
+<h2 id="použité-pluginy">Použité pluginy:</h2>
+<ul>
+  <li>Plugin <a href="https://github.com/yihangho/emoji-for-jekyll">Emoji for Jekyll</a></li>
+  <li>Plugin <a href="https://rubygems.org/gems/liquid_reading_time">Liquid reading time</a></li>
+</ul>
+
+<h2 id="kolekcie">Kolekcie:</h2>
+<p>schoolProjects sú kolekcie riešených predmetov</p>
+
+<h2 id="premenné">Premenné:</h2>
+<p>Blogové články používajú premenné:</p>
+<ul>
+  <li>title</li>
+  <li>date</li>
+  <li>category</li>
+  <li>tags</li>
+  <li>author</li>
+  <li>description</li>
+</ul>
+
+<p>Ďalšie premenné sú použité v samotnom config súbore.</p>
+
+<p>V rámci jednotlivých stránok sú využíté aj globálne premenné page a site.</p>
+
+<h2 id="filtre-a-tagy">Filtre a tagy:</h2>
+<h4 id="tagy">Tagy:</h4>
+<ul>
+  <li>if/elsif/else na stránke blogu</li>
+  <li>for cyklus na stránkach blogu, jednotivých príspevkov (post layout) a tagov (tag layout)</li>
+  <li>assign na priradenie hodnoty do premennej na vyjadrenie dĺžky na stránke blogu</li>
+  <li>capture na priradenie času potrebného na prečítanie stránky</li>
+</ul>
+
+<h4 id="filtre">Filtre:</h4>
+<ul>
+  <li>filter size pre zistenie zistenie počtu blogov</li>
+  <li>filter truncate na zobrazenie prvých 20 znakov v projekte (škola-projekty)</li>
+  <li>filter date_to_string použitý pre zobrazenie dátumu v blogu</li>
+  <li>filter number_of_words na zistenie počtu slov v konkrétnom blogu (post layout)</li>
+</ul>
+
+
+		</div>
+    </div>
+    <footer>
+      <div class="content">
+        <p class="center-text">
+						        		<a href="mailto:frantisek.durana@azet.sk">email</a></li>
+						        		<a href="https://github.com/wittmansvk">github.com/wittmansvk</a></li>
+				</p>
+      </div>
+    </footer>
+  </body>
+</html>

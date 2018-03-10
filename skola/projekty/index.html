@@ -7,10 +7,9 @@ title: Riešené projekty počas štúdia
 <ul>
 {% for project in site.schoolProjects %}
 
-	<div class="cookie">
-	<li><h2><a href="{{ project.url }}">{{ project.title }}</a></h2></li>
-
-{{ project.content | truncatewords: 20 }}
+	<div class="projects">
+			<li><h2><a href="{{ project.url }}">{{ project.title }}</a></h2></li>
+			{{ project.content | truncatewords: 20 }}
+	</div>
 {% endfor %}
-</div>
 </ul>

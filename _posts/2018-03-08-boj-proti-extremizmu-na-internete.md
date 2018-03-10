@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boj proti extrémizmu na internete"
-category: "FIIT"
+category: internet
 tags: internet extremizmus
 date: 2018-03-08
 author: František Ďurana
