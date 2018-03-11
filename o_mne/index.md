@@ -15,7 +15,7 @@ smerovanie v informatickom svete.
 a čomu venujem svoj voľný čas. Vzhľadom na to, že počas práce na projektoch a príprave
 do školy trávim väčšinu času ponorený do kresla, snažím sa voľné chvíle využiť aktívnym pohybom, či už sú to prechádzky, bicykel alebo rôzne športy. Práve prechádzky,
 najmä tie v prírode, mi najviac pomáhajú zregenerovať svoju myseľ a odpočinúť si od psychickej záťaže.
-Vysoká škola totiž dokáže byť niekedy veľmi náročná. Ako som už spomenul, venujem sa aj športom,
+Vysoká škola totiž dokáže byť niekedy veľmi náročná. Ale život je krásny. Ako som už spomenul, venujem sa aj športom,
 to však na rekreačnej úrovni (najmä basketbal, futbal či bedmintom). Ak sa mi práve nechce dýchať
 čerstvý vzduch vonku, rád podľahnem čaru knihy a prenesiem sa na úplne iné miesta vo svojej fantázií. Čo sa týka čítania,
 obľubujem najmä motivačnú až ezoterickú literatúru, v ktorej sú často ukryté potrebné životabudiče.
