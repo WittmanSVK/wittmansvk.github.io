@@ -5,4 +5,6 @@ collections:
   schoolProjects:
     output: true
 
-gems: ["emoji_for_jekyll" , "liquid_reading_time"]
+plugins:
+  - emoji_for_jekyll
+  - liquid_reading_time
