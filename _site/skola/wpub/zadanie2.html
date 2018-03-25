@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="utf-8">
+    <title>Webové publikovanie</title>
+    <link rel="stylesheet" href="/css/mainstyle.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+    <link rel="icon"
+      type="image/png"
+      href="/img/icon.png" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+
+        <nav class="my-nav">
+          <ul>
+	        		<li><a href="/">Domov</a></li>
+		        	<li><a href="/o_mne">O mne</a></li>
+	        		<li><a href="/cv">CV</a></li>
+							<li><a href="/skola">Škola a projekty</a></li>
+							<li><a href="/praca">Práca a úspechy</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+				</nav>
+        <h1><a href="/">František<strong> Ďurana</strong></a></h1>
+		</div>
+    </header>
+    <div class="content">
+			<div class="content-width">
+
+      <h3 id="dokumentácia-zadania-2">Dokumentácia zadania 2</h3>
+
+<h2 id="štruktúra-dokumentu">Štruktúra dokumentu</h2>
+<p>Pri vypracovaní zadania 2 bola použitá šablóna zo stránky predmetu. Zvyšné elementy boli vytvorené podľa online dokumentácie k Docbooku. Text dokumentu je členený nasledovne: na začiatku je abstrakt s informáciami o dokumente. Nasledujú kapitoly, ktoré sú ďalej členené na sekcie a tie ešte znova na ďalšie sekcie. Na konci dokumentu sa nachádzajú dve prílohy. Na začiatku sa nachádza vygenerovaný obsah, zoznam obrázkov a zoznam tabuliek.</p>
+
+<h2 id="index-a-literatúra">Index a literatúra</h2>
+
+<p>Za hlavným obsahom dokumentu je umiestnený register pojmov (index), v xml jeho pozíciu označuje tag <em>&lt;index/&gt;</em>. Tam, kde to bolo vhodné, sú pojmy usporiadané hierarchicky do dvoch úrovní (napríklad “Vývojové dosky, Arduino”, “Vývojové dosky, Nanode”, “Vývojové dosky, Raspberry” alebo “Protokol, HTTPS”, “Protokol, IPsec”, “Protokol, SSL” atď.). Na konci dokumentu má svoje miesto použitá literatúra. Tá je vo formáte <em>&lt;bibliolist&gt;</em> skladajúceho sa z jednotlivých položiek <em>&lt;biblioentry&gt;</em>. Každý záznam obsahuje zoznam autorov, názov dokumentu, jeho url adresu a dátum, kedy bol citovaný. V dokumente je na zdroje odkazované pomocou skratky (<em>&lt;abbrev&gt;</em>) daného zdroja v tagu <em>&lt;citation&gt;</em>.</p>
+
+<h2 id="zvýraznenie-slov-prepojenia-obrázky-tabuľky">Zvýraznenie slov, prepojenia, obrázky, tabuľky</h2>
+
+<p>V dokumente je použité zvýraznenie slov tučným fontom a kurzívou (<em>&lt;emphasis&gt;</em>). Text je na viacerých miestach členený číslovaným zoznamom (<em>&lt;orderedlist&gt;</em>). V časti Arduino Uno, Raspberry Pi a Nanode Classic sú použité aj prepojenia na sekcie vlastného dokumentu (<em>&lt;link linkend=’id’&gt;</em>). V celom dokumente sú používané aj poznámky pod čiarou odkazujúce na webové stránky. Nachádza sa tu jeden obrázok vývojovej dosky arduino, logo FIIT použité na prvej strane dokumentu a dve vytvorené tabuľky. Na obrázok aj na tabuľky sú pridané odkazy v texte pomocou (<em>&lt;link linkend=’id’&gt;</em>).</p>
+
+<h2 id="úprava-xsl-šablón">Úprava XSL šablón</h2>
+
+<p>Pri tvorbe boli modifikované aj XSL súbory: thesis.xsl - do generate.toc boli pridané položky figure,table na generovanie zoznamu obrázkov a tabuliek a thesis-tp-fo.xsl - najmä úprava veľkosti písma, fontov a podobne, aby bol vygenerovaný dokument čo najviac podobný s pôvodným dokumentom.</p>
+
+
+		</div>
+    </div>
+    <footer>
+      <div class="content">
+        <p class="center-text">
+						        		<a href="mailto:frantisek.durana@azet.sk">E-mail |</a></li>
+						        		<a href="https://github.com/wittmansvk">Github |</a></li>
+                        <a href="https://www.linkedin.com/in/frantisek-durana">Linkedin</a></li>
+				</p>
+      </div>
+    </footer>
+  </body>
+</html>
