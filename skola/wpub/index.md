@@ -9,3 +9,5 @@ Nasledujúce stránky obsahujú dokumentáciu k vypracovaným zadaniam z predmet
 [Zadanie 1](/skola/wpub/zadanie1.html)
 <br>
 [Zadanie 2](/skola/wpub/zadanie2.html)
+<br>
+[Zadanie 3](/skola/wpub/zadanie3.html)
