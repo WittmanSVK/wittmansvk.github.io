@@ -61,4 +61,6 @@ V jednom momente môže byť aktívny len jeden režim. To znamená, že použí
 musí manuálne zvoliť, aký režim sa bude používať, no je možné dáta posielať a
 zároveň aj prijímať. Na zariadeniach, ktoré používajú operačný systém
 Android a NFC je na nich aktivované sa proces hľadania cieľov v okolí spustí automaticky po odblokovaní obrazovky a pokračuje dovtedy, kým nie je identifikované
-dané zariadenie.
+dané zariadenie. 
+
+Ak Vás zaujímajú aj ďalšie témy z oblasti IT sveta, máme pre vás <a href="https://ithackr.com">naložený blog</a>.
