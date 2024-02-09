@@ -74,7 +74,9 @@ pracovísk, ktoré sa bojom proti extrémizmu zaoberajú.
 
 [2] „Extrémizmus,“ [Online]. Available: <http://www.minv.sk/?extremizmus>
 
-[3] [Online]. Available: <http://archiv.vlada.gov.sk/ludskeprava/24942/akcny-planpredchadzania-vsetkym-formam-diskriminacie-rasizmu-xenofobie-antisemitizmu-aostatnym-prejavom-intolerancie.html>
+[3] Ithackr.com [Online]. Available: <https://ithackr.com/coding/will-ai-replace-programmers>
 
-[4] [Online]. Available:
+[4] [Online]. Available: <http://archiv.vlada.gov.sk/ludskeprava/24942/akcny-planpredchadzania-vsetkym-formam-diskriminacie-rasizmu-xenofobie-antisemitizmu-aostatnym-prejavom-intolerancie.html>
+
+[5] [Online]. Available:
 <http://www.teraz.sk/slovensko/policia-extremizmus-internet-aplikacia/193314-clanok.html>
