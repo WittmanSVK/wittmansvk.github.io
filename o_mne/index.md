@@ -7,7 +7,7 @@ title: O mne
 
 Som študent, ktorý navštevuje tretí ročník Fakulty informatiky a informačných technológií STU v Bratislave.
 Počas svojho štúdia som pracoval na [viacerých zaujímavých projektoch](/skola/projekty/index.html), ktoré postupne utvárali moje ďalšie
-smerovanie v informatickom svete.
+smerovanie v informatickom svete. Príkladom je aj [táto webová stránka](https://aktualnekupony.sk/o-nas/)
 
 ## Hobby a voľný čas
 
